@@ -5,7 +5,7 @@ This face recognition project was inspired by my biometry class and its based on
 
 The system allows users to set a custom matching threshold, balancing False Rejection Rate (FRR) and False Acceptance Rate (FAR), and provides a dynamic and interactive experience for real-time facial recognition.
 
-![FRR and FAR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFalse-rejection-rate-and-false-acceptance-rate-of-a-biometric-verification-system_fig3_325217988&psig=AOvVaw3l8t3jfgGgkqNtxEzDliqf&ust=1740679657309000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj0tpz34YsDFQAAAAAdAAAAABAJ)
+![FRR and FAR](https://www.researchgate.net/profile/Azeddine-Benlamoudi/publication/325217988/figure/fig3/AS:690595060264962@1541662101490/False-rejection-rate-and-false-acceptance-rate-of-a-biometric-verification-system.ppm)
 
 ---
 
