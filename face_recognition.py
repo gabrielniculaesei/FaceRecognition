@@ -5,7 +5,7 @@ from sklearn.datasets import fetch_lfw_people
 import time
 
 print("Hi and welcome, please select your desired threshold.")
-print("(Keep in mind, a higher threshold results in a higher FNMR (False Non-Match Rate),")
+print("(Keep in mind, a higher threshold results in a higher FRR (False Rejection Rate),")
 print("and vice versa for FAR (False Acceptance Rate).)")
 threshold = int(input("Enter matching threshold as % (e.g., 50): "))
 
