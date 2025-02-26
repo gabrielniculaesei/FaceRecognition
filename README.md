@@ -5,7 +5,7 @@ This face recognition project was inspired by my biometry class and its based on
 
 The system allows users to set a custom matching threshold, balancing False Rejection Rate (FRR) and False Acceptance Rate (FAR), and provides a dynamic and interactive experience for real-time facial recognition.
 
-![FAR and FRR](FARandFRR.ppm.png)
+![FAR and FRR](img/FARandFRR.ppm.png)
 
 ---
 
