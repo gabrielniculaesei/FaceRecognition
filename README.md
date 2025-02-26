@@ -1,7 +1,7 @@
 # Face Recognition System
 
 ## Overview
-This face recognition project was inspired by my biometry class and based on concepts from the *Introduction to Biometry* book. It utilizes OpenCV, `face_recognition`, and machine learning techniques to identify and verify faces in real-time using a webcam.
+This face recognition project was inspired by my biometry class and its based on concepts from the *Introduction to Biometry* book. It utilizes OpenCV, `face_recognition`, to identify and verify faces in real-time using a webcam.
 
 The system allows users to set a custom matching threshold, balancing False Rejection Rate (FRR) and False Acceptance Rate (FAR), and provides a dynamic and interactive experience for real-time facial recognition.
 
@@ -12,7 +12,7 @@ The system allows users to set a custom matching threshold, balancing False Reje
 - **Dynamic thresholding**: Users can customize the matching confidence threshold.
 - **Camera detection and initialization**: Automatically detects available cameras and selects the appropriate one.
 - **Live face recognition**: Identifies and labels faces in real time using a webcam feed.
-- **Error handling**: Gracefully handles errors like camera failures or missing faces in the dataset.
+- **Error handling**: It handles errors like camera failures or missing faces in the dataset.
 - **Performance logging**: Logs processing updates and frame counts to indicate system activity.
 - **Real-time visualization**: Displays detected faces with bounding boxes and confidence percentages.
 
