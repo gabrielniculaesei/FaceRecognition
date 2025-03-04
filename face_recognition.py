@@ -12,7 +12,7 @@ threshold = int(input("Enter matching threshold as % (e.g., 50): "))
 print("Initializing face recognition system...")
 
 print("Loading the dataset...")
-ds = fetch_lfw_people(min_faces_per_person=50, resize=0.5)
+ds = fetch_lfw_people(min_faces_per_person=50, resize=0.5) # I select only people that have =>50 photos, for accuracy
 
 # Extract images, targets, and labels
 ds_images = ds.images
