@@ -1,7 +1,7 @@
 import cv2
 import face_recognition
 import numpy as np
-from sklearn.datasets import fetch_lfw_people
+from sklearn.datasets import fetch_lfw_people 
 import time
 
 print("Hi and welcome, please select your desired threshold.")
