@@ -26,7 +26,7 @@ print("Processing reference faces...")
 n = enumerate(ds_images)
 for i, img in n:
     if i % 100 == 0:
-        print(f"Processing image {i}/{len(ds_images)}...")
+        print(f"Loading images {int((i/len(ds_images) * 100))}%...")
         
     # Convert grayscale image to RGB (3 channels)
     img_rgb = np.stack((img,)*3, axis=-1)
